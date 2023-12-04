@@ -3,7 +3,7 @@
 + 2023.12.3 ~ now
 
 ## 팀 구성
-+ 총 2명 ( [본인](https://github.com/parkSangGyu98) [세훈](https://github.com/carsehoon) )
++ 총 2명 ( [상규](https://github.com/parkSangGyu98) [세훈](https://github.com/carsehoon) )
 
 ## 사용한 기술 및 환경
 + Window
