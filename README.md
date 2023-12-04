@@ -1,2 +1,2 @@
 # CMS
- first project
+ first team project
