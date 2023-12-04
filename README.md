@@ -1,4 +1,4 @@
-# CMS ![image](https://github.com/parkSangGyu98/CMS/assets/103983349/d11bc690-cea3-4001-bc2d-446d6b5b1003)
+# CMS
 
 + Contents Management System
 + 2023.12.3 ~ now
