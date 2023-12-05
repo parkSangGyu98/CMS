@@ -1,7 +1,7 @@
 # CMS ⚙
 
 + Contents Management System
-+ 2023.12.3 ~ Now
++ 2023.12.3 ~
 
 ## 팀 구성
 + 총 2명 ( [박상규](https://github.com/parkSangGyu98) [차세훈](https://github.com/carsehoon) )
