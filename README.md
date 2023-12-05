@@ -8,7 +8,7 @@
 
 ## 기술 및 환경
 + Window
-+ STS4
++ STS3
 + Java
 + Spring
 + Jsp
