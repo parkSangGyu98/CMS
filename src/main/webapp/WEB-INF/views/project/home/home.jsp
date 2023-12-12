@@ -2,11 +2,11 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>main page</title>
 </head>
 <body>
 <h1>
-	2023.12.04 Commit Test!
+	main page
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
