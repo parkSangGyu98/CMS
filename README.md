@@ -5,7 +5,6 @@
   
 ## 팀 구성
 + 총 2명 ( [박상규](https://github.com/parkSangGyu98) [차세훈](https://github.com/carsehoon) )
-
 ## 기술 및 환경
 + Window
 + STS3
