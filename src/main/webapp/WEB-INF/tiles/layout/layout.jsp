@@ -17,6 +17,7 @@
   <body>
   	<div class='wrap'>
   		<tiles:insertAttribute name="header" />
+  		<tiles:insertAttribute name="sidebar" />
 		  <div class='content'>  	
 	  		<div class="page_content">
 	  			<tiles:insertAttribute name="content"/>
